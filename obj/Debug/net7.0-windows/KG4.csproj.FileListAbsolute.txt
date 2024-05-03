@@ -1,0 +1,16 @@
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.Form1.resources
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.csproj.GenerateResource.cache
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.AssemblyInfoInputs.cache
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.AssemblyInfo.cs
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.csproj.CoreCompileInputs.cache
+D:\ccc\KG4\KG4\bin\Debug\net7.0-windows\KG4.exe
+D:\ccc\KG4\KG4\bin\Debug\net7.0-windows\KG4.deps.json
+D:\ccc\KG4\KG4\bin\Debug\net7.0-windows\KG4.runtimeconfig.json
+D:\ccc\KG4\KG4\bin\Debug\net7.0-windows\KG4.dll
+D:\ccc\KG4\KG4\bin\Debug\net7.0-windows\KG4.pdb
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.dll
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\refint\KG4.dll
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.pdb
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\KG4.genruntimeconfig.cache
+D:\ccc\KG4\KG4\obj\Debug\net7.0-windows\ref\KG4.dll
